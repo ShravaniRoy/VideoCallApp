@@ -1,1 +1,1 @@
-### Omegle clone using web RTC
+### Video calling app for users to make join random video room, using web RTC
